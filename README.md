@@ -1,5 +1,4 @@
-<HTML>
-<Body>
+
 <H1>Twenty one pilots</H1>
 <Style>
   H1{
@@ -9,6 +8,3 @@
   </Style>
 
 
-</body>
-
-</HTML>
